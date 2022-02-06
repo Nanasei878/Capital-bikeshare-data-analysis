@@ -1,0 +1,2 @@
+# Capital-bikeshare-data-analysis
+A python data analysis task using Capital Bikeshare's data set provided by UC Irvine Machine Learning Repository. The dataset contains the hourly count of rental bikes between years 2011 and 2012 in Capital bikeshare system with the corresponding weather and seasonal information. Final deliverable is explorative data analysis in python and on Tableau and prediction with models machine learning and deep learning  for the hourly utilization.
